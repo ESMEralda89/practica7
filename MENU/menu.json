@@ -1,0 +1,138 @@
+{ 
+"menu":[
+{
+"nombre": "BROCHETAS",
+"descripcion":" puede ser de pollo o camaron con alguna ensalada",
+"precio":478,
+"imagen":"brochetas3.jpg"
+
+},
+{
+"nombre": "CAMARON",
+"descripcion":"frito ,con arroz y una ensalada  ",
+"precio":145,
+"imagen":"camaron5.jpg"
+
+},
+{
+"nombre": "CEVICHE",
+"descripcion":"ceviche en tostadas .",
+"precio":230,
+"imagen":"ceviche.jpg"
+
+},
+{
+"nombre": "CREMA",
+"descripcion":"crema de spaguethi con camarones.",
+"precio":4345,
+"imagen":"crema.jpg"
+
+},
+{
+"nombre": "LANGOSTA",
+"descripcion":"es un plato de fácil preparación y barato.y se mezcla con arroz.",
+"precio":780,
+"imagen":"lan.jpg"
+
+},
+{
+"nombre": "MOLCAJETE",
+"descripcion":"es como un cocetl de camarones servido en un molcajate ",
+"precio":415,
+"imagen":"molcajete.jpg"
+
+},
+{
+"nombre": "PAELLA",
+"descripcion":" Es un platillo picante.",
+"precio":240,
+"imagen":"paella.jpg"
+
+},
+{
+"nombre": "PESCADILLA",
+"descripcion":" Al servirlo se le agrega limón y se torna lechoso. Este caldo es casero, pero también se sirve en marisquerías o coctelerías; difícilmente se encuentra en restaurantes..",
+"precio":460,
+"imagen":"pescadilla.jpg"
+
+},
+{
+"nombre": "PESCADO",
+"descripcion":"pescado frito con salsa o ensalda de la preferencia ",
+"precio":370,
+"imagen":"pescado12.jpg"
+
+},
+{
+"nombre": "POZOLE",
+"descripcion":"algo mas raro del menu pero tambien especial .",
+"precio":930,
+"imagen":"Pozole5.jpg"
+
+},
+{
+"nombre": "QUESADILLA",
+"descripcion":"Los fideos fríos, o naengmyeon (냉면) son uno de los platos favoritos a disfrutar durante el verano. Se trata de finos fideos sobre una sopa fría que lleva vinagre y van acopañados de pepino, rábano, pera coreana, huevo duro y un trozo fino de carne. Para sazonar se suele usar mostaza y agregar más vinagre a gusto. La salsa suele llevar bastante ají, pero no está mezclada del todo, por lo que puedes quitarla.",
+"precio":120,
+"imagen":"Quesadilla4.jpg"
+
+},
+{
+"nombre": "SALMON",
+"descripcion":"Galbitang (갈비탕). Una sopa de costilla de vacuno con rábano blanco, cebolla, cebollín, y huevo frito dispueto en tiras. La sopa es bien sabrosa e ideal para días fríos.",
+"precio":160,
+"imagen":"salmon.jpg"
+
+},
+{
+"nombre": "SOPA",
+"descripcion":"sopa o caldo de camarones como mejor lo conozcan.",
+"precio":257,
+"imagen":"sopa.jpg"
+
+},
+{
+"nombre": "SUSHI",
+"descripcion":"El sushi es un plato de la gastronomía japonesa con base de arroz condimentado con vinagre y azúcar",
+"precio":586,
+"imagen":"sushi.jpg"
+
+},
+{
+"nombre": "TACOS",
+"descripcion":"El bulgogi (불고기) es otro clásico coreano, y favorito de los extranjeros. Se trata de cortes blandos de carne de vacuno marinados con salsa de soja, ajo y azúcar. Al no ser picante es un plato fácil de probar en un primer encuentro con la gastronomía coreana.",
+"precio":739,
+"imagen":"tacos6.jpg"
+
+},
+{
+"nombre": " TACOS C",
+"descripcion":"Donkatsu (돈까스) es otro plato que fue importado a Corea, ya que es de origen japonés. Se trata de filete de cerdo apanado y frito que se complementa con una salsa agridulce. Es muy popular sobretodo en los niños.",
+"precio":284,
+"imagen":"tacos de camaron.jpg"
+
+},
+{
+"nombre": "TACOS",
+"descripcion":"El japchae (잡채) es otro plato bien típico y fácil de comer por extranjeros. Consiste de varias verduras picadas en juliana y salteadas que se mezclan con aceite de sésamo y fideos de papa camote. Muchas veces lleva también tiras de carne de vacuno y huevo.",
+"precio":739,
+"imagen":"Tacos3.jpg"
+
+},
+{
+"nombre": "TOSTADAS",
+"descripcion":"Samgyeopsal (삼겹살) es otro plato para compartir en grupo. Es simplemente carne de cerdo asada a la parrilla que se corta en trozos pequeños una vez cocida y se envuelve en lechuga u otros vegetales para comer. Es común agregar ajo, kimchi, ssamjang y arroz al envolver la carne.",
+"precio":789,
+"imagen":"tostadas8.jpg"
+
+},
+{
+"nombre": "HOTTEOK",
+"descripcion":"Se trata de un tipo de panqueque, popular entre la comida callejera de Corea del Sur, que suele consumirse durante la temporada invernal debido a su gran contenido calórico y cálida temperatura, que resulta confortante en climas fríos.",
+"precio":320,
+"imagen":"Hotteok.jpg"
+
+}
+
+]
+}
